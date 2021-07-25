@@ -297,7 +297,7 @@ text-decoration: underline;
     text-decoration: none;
     font-family: 'ClinicaPro-thin';
     color: white;
-    font-size: 1.5vw;
+    font-size: 2.5vw;
     width: 50%;
       }
     
@@ -317,14 +317,14 @@ text-decoration: underline;
           }
     
     .h-1 {
-        font-size: 4vw;
+        font-size: 5vw;
         font-family: 'ClinicaPro-thin';
         color: white;
         text-decoration: none;
     }
     
     .h-2 {
-        font-size: 2.2vw;
+        font-size: 3.2vw;
         font-family: 'ClinicaPro-thin';
         color: white;
         text-decoration: none;
@@ -350,7 +350,7 @@ text-decoration: underline;
         justify-content: center;
         height: 40px;
         align-items: center;
-        padding: 30px;
+        padding: 10px;
     }
     
     #f-img {
